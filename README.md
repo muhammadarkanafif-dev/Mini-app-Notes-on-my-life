@@ -2,18 +2,19 @@
 
 Aplikasi pencatatan (notes) sederhana yang dirancang sebagai ruang personal untuk menulis jurnal harian, menyimpan ide, dan mencatat momen-momen penting dalam hidup. 
 
+**Pembuat:** Satria Arief Wibowo
+
+## 📄 Dokumentasi Proyek
+Untuk melihat detail tampilan antarmuka dan struktur database, silakan buka file PDF berikut:
+👉 **[MINI APP PELAJARAN MAPIL.pdf](./MINI%20APP%20PELAJARAN%20MAPIL.pdf)**
+
 ## ✨ Fitur Utama
-* **Catatan Harian:** Buat, baca, perbarui, dan hapus (CRUD) catatan harian dengan mudah.
-* **Kategorisasi:** Kelompokkan catatan berdasarkan topik (misal: Ide, Jurnal, Pekerjaan).
-* **Pencarian Cepat:** Temukan catatan lama dengan fitur pencarian yang efisien.
-* **Antarmuka Minimalis:** Desain UI yang bersih agar fokus pada tulisan.
+* **Autentikasi Pengguna:** Sistem *Sign Up* dan *Login* yang aman (terintegrasi dengan Supabase).
+* **Catatan Harian:** Buat dan simpan catatan harian (seperti daftar belanja harian).
+* **UI/UX Sederhana:** Antarmuka *mobile-friendly* yang bersih dan mudah digunakan.
 
 ## 💻 Tech Stack
-*(Ubah bagian ini sesuai dengan teknologi yang kamu gunakan)*
-* **Frontend:** React / Next.js
-* **Backend:** Node.js / Express
-* **Database:** Supabase / MySQL
-* **Styling:** Tailwind CSS
+* **Database & Auth:** Supabase (Table Users & Table Notes)
 
 ## 🚀 Cara Menjalankan Proyek (Instalasi Lokal)
 
@@ -21,4 +22,4 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di komputer kamu:
 
 1. **Clone repository ini:**
    ```bash
-   git clone [https://github.com/username-kamu/Mini-app-Notes-on-my-life.git](https://github.com/username-kamu/Mini-app-Notes-on-my-life.git)
+   git clone [https://github.com/SATRIA475/Mini-app-Notes-on-my-life.git](https://github.com/SATRIA475/Mini-app-Notes-on-my-life.git)
